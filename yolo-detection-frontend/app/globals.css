@@ -5,6 +5,7 @@
   --color-kku-maroon: #59C6D7;
 }
 
+
 body {
   background: linear-gradient(to bottom right, rgb(12, 50, 88), rgb(34, 82, 180));
   min-height: 100vh;
